@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginProj</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="remeberme">Remeber Me</string>
+    <string name="signin">Sign in</string>
+    <string name="loginfacebook">Login with Facebook</string>
+</resources>
